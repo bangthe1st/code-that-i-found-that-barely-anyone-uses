@@ -1,0 +1,4 @@
+spr.x += 200;
+
+This is used to move all of the assets to desired X axis. Usually I use 200, but if you use -0 or 0, then it'll be to the far left, like, FAR left.
+-200 is to the left, and 200 is to the right. 
